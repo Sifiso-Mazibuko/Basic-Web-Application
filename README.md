@@ -1,2 +1,3 @@
 # Basic-Web-Application
-Rock, paper, scissors game with Java Web Application MVC, JSP and Java Servlet using GlassFish server
+Basic game with Java Web Application HTML, MVC, JSP and Java Servlet.
+Deployed using GlassFish Server
